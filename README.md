@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ashutosh Hanmol</h1>
+<h1 align="center">Hey 👋, I'm Ashutosh Kumar anmol</h1>
 <h3 align="center">💻 CS Student | 🚀 Developer | 🌱 Lifelong Learner</h3>
 
 <p align="center">
@@ -9,10 +9,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **React, Advanced Java & IoT**  
+- 🌱 Currently learning **Machine learning & IoT**  
 - 🔭 Working on **IoT-Based Home Automation System**  
 - 💡 Love solving real-world problems with technology  
-- 💬 Ask me about **Java, React, IoT, Networking, DBMS, OOPs**  
+- 💬 Ask me about **Python, React, IoT, Networking, DBMS, OOPs,**  
 - 📫 Reach me at: **ashutoshanmol123456@gmail.com** 
 - ⚡ Fun fact: *I debug more than I code 😅*  
 

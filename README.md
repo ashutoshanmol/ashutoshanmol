@@ -20,7 +20,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="www.linkedin.com/in/ashutosh-kumar-anmol-a2b110267" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/ashutosh-kumar-anmol-a2b110267/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
 <a href="https://www.instagram.com/_ashutosh_3680" target="blank"><img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram" /></a>
 <a href="https://www.facebook.com/ashutosh.anmol.9" target="blank"><img src="https://img.shields.io/badge/Facebook-Add-blue?logo=facebook" /></a>
 <a href="mailto:-ashutoshanmol123456@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail" /></a>

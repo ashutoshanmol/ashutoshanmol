@@ -10,9 +10,10 @@
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning **Machine learning & IoT**  
-- 🔭 Working on **IoT-Based Home Automation System**  
+- 🔭 Minor Project  **IoT-Based Home Automation System**
+- 🔭 Major Project  **MEDICARE CLINIC[Hospital Management System]**
 - 💡 Love solving real-world problems with technology  
-- 💬 Ask me about **Python, React, IoT, Networking, DBMS, OOPs,**  
+- 💬 Ask me about **MERN ,Python, React, IoT, Networking, DBMS, OOPs,**  
 - 📫 Reach me at: **ashutoshanmol123456@gmail.com** 
 - ⚡ Fun fact: *I debug more than I code 😅*  
 
